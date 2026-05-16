@@ -1,0 +1,19 @@
+{
+  "status": "تم استبدال بيانات Firebase القديمة وقيمة مفتاح الشركة الافتراضي القديمة في كل ملفات المشروع النصية.",
+  "old_tokens_remaining_count": 0,
+  "old_tokens_remaining_locations": [],
+  "placeholder_counts": {
+    "PUT_NEW_PROJECT_ID": 9,
+    "PUT_NEW_FIREBASE_API_KEY_HERE": 3,
+    "PUT_NEW_MESSAGING_SENDER_ID": 3,
+    "PUT_NEW_FIREBASE_APP_ID": 3,
+    "PUT_NEW_MEASUREMENT_ID": 3,
+    "new-client-r27": 146
+  },
+  "service_worker_cache": "oskar-r27-new-firebase-config",
+  "firebase_config_files_to_update_with_real_customer_values": [
+    "firebase.js",
+    "firebase-config.js"
+  ],
+  "default_company_key_placeholder": "new-client-r27"
+}
